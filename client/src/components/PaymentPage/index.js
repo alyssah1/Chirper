@@ -120,7 +120,7 @@ function PaymentPage() {
                             </div>
                             <div className="col-4 p-1">
                                 <button className="btn btn-light w-100" style={{height: "4em"}} onClick={() => {
-                                    setAmount(amount + "31");
+                                    setAmount(amount + "3");
                                 }}>3</button>
                             </div>
                             <div className="col-4 p-1">
