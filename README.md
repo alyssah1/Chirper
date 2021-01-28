@@ -27,7 +27,7 @@ Techologies:
     - Node JS
     - VS-Code Editor
     - MySQL
-    - MySQL WorkBanch
+    - MySQL WorkBench
     - GitHUb Repository
     - npm packages
     - React
