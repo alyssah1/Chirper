@@ -28,8 +28,8 @@ Techologies:
     - VS-Code Editor
     - MySQL
     - MySQL WorkBench
-    - GitHUb Repository
-    - npm packages
+    - GitHub Repository
+    - Npm packages
     - React
     - Heroku 
 ​
